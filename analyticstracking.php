@@ -6,5 +6,6 @@
 
   ga('create', 'UA-70665039-3', 'auto');
   ga('send', 'pageview');
-
+  ga('set', 'userId', {{USER_ID}}); // Defina o ID de usuário usando o user_id conectado.
+  
 </script>
