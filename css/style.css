@@ -31,18 +31,12 @@ img{max-width:100%;}
 body{
 	background:#3f51b5;
 	text-align: center;
+	background-image: url('../images/publico.png');
+	background-position: 50% 100%;
 	background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-	padding:0;
-	margin:0;
+    background-repeat: repeat-x;    
 }
-povo { 
-    background-image: url('smiley.gif');
-    background-repeat: repeat-x;
-    background-attachment: fixed;
-    background-position: 50% 100%; 
-}
+
 @font-face{
 	font-family: "nyala";
 	src:url(../fonts/nyala.ttf);
@@ -95,6 +89,12 @@ p.footer a:hover{
 	float:left;
 	width:27.5%;
 	border-left: 10px solid #f7af02;
+}
+.povo-bg { 
+    background-image: url('publico.png');
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-position: 50% 100%; 
 }
 
 /******** SAP ************/
