@@ -33,7 +33,9 @@ body{
 	text-align: center;
 	background-attachment: fixed;    
 }
-
+anuncio{
+	text-align: center;
+}
 @font-face{
 	font-family: "nyala";
 	src:url(../fonts/nyala.ttf);
@@ -594,6 +596,9 @@ body {
 body { 
 	background-image: none !important; 
 }
+anuncio{
+	display: none !important;
+}
 .port-left {
 	width: 25%;
 }
@@ -609,7 +614,9 @@ body {
 body { 
 	background-image: none !important; 
 }
-
+anuncio{
+	display: none !important;
+}
 .main h1{
 	font-size:48px;
 	margin-bottom: 10px;
@@ -626,7 +633,9 @@ body {
 body { 
 	background-image: none !important; 
 }
-		
+anuncio{
+	display: none !important;
+}		
 .content{
 	width:87%;
 }
@@ -640,7 +649,9 @@ body {
 body { 
 	background-image: none !important; 
 }
-		
+anuncio{
+	display: none !important;
+}		
 .main h1{
 	font-size:40px;
 	margin-bottom: 5px;
@@ -687,7 +698,9 @@ h3{
 body { 
 	background-image: none !important; 
 }
-
+anuncio{
+	display: none !important;
+}
 .main h1{
 	font-size: 28px;
     padding-top: 0px;
@@ -711,7 +724,9 @@ body {
 body { 
 	background-image: none !important; 
 }
-		
+anuncio{
+	display: none !important;
+}		
 .resp-tabs-list li{
 	display:block;
 }
@@ -724,7 +739,9 @@ body {
 body { 
 	background-image: none !important; 
 }
-
+anuncio{
+	display: none !important;
+}
 .content{
 	width:90%;
 }
