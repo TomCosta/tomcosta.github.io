@@ -486,6 +486,9 @@ p.footer {
 }
 
 @media screen and (max-width:667px){
+body { 
+	background-image: none !important; 
+}
 .port-left {
 	width: 25%;
 }
@@ -498,6 +501,10 @@ p.footer {
 }
 
 @media screen and (max-width:640px){
+body { 
+	background-image: none !important; 
+}
+
 .main h1{
 	font-size:48px;
 	margin-bottom: 10px;
@@ -512,8 +519,8 @@ p.footer {
 
 @media screen and (max-width:600px){
 body { 
-		background-image: none!important; 
-		}
+	background-image: none !important; 
+}
 		
 .content{
 	width:87%;
@@ -526,8 +533,8 @@ body {
 
 @media screen and (max-width:480px){
 body { 
-		background-image: none!important; 
-		}
+	background-image: none !important; 
+}
 		
 .main h1{
 	font-size:40px;
@@ -573,8 +580,8 @@ h3{
 
 @media screen and (max-width:414px){
 body { 
-		background-image: none!important; 
-		}
+	background-image: none !important; 
+}
 
 .main h1{
 	font-size: 28px;
@@ -597,8 +604,8 @@ body {
 
 @media screen and (max-width:375px){
 body { 
-		background-image: none!important; 
-		}
+	background-image: none !important; 
+}
 		
 .resp-tabs-list li{
 	display:block;
@@ -610,8 +617,8 @@ body {
 
 @media screen and (max-width:320px){
 body { 
-		background-image: none!important; 
-		}
+	background-image: none !important; 
+}
 
 .content{
 	width:90%;
