@@ -90,12 +90,6 @@ p.footer a:hover{
 	width:27.5%;
 	border-left: 10px solid #f7af02;
 }
-.povo-bg { 
-    background-image: url('publico.png');
-    background-repeat: repeat-x;
-    background-attachment: fixed;
-    background-position: 50% 100%; 
-}
 
 /******** SAP ************/
 .sap_tabs{
@@ -477,6 +471,10 @@ p.footer {
 }
 
 @media screen and (max-width:736px){
+body { 
+	background-image: none !important; 
+}
+
 .main{
 	padding:25px 0px;
 }
