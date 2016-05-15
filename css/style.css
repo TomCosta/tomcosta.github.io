@@ -37,6 +37,12 @@ body{
 	padding:0;
 	margin:0;
 }
+povo { 
+    background-image: url('smiley.gif');
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-position: 50% 100%; 
+}
 @font-face{
 	font-family: "nyala";
 	src:url(../fonts/nyala.ttf);
