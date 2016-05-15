@@ -517,7 +517,7 @@ p.footer {
 @media screen and (max-width:480px){
 .main h1{
 	font-size:40px;
-	margin-bottom: 25px;
+	margin-bottom: 10px;
 	padding-top: 0;
 }
 .content{
