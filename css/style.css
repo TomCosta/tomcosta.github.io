@@ -511,7 +511,7 @@ p.footer {
 }
 
 @media screen and (max-width:600px){
-div#body { 
+body { 
 		background-image: none!important; 
 		}
 		
@@ -525,7 +525,7 @@ div#body {
 }
 
 @media screen and (max-width:480px){
-div#body { 
+body { 
 		background-image: none!important; 
 		}
 		
@@ -572,7 +572,7 @@ h3{
 }
 
 @media screen and (max-width:414px){
-div#body { 
+body { 
 		background-image: none!important; 
 		}
 
@@ -596,7 +596,7 @@ div#body {
 }
 
 @media screen and (max-width:375px){
-div#body { 
+body { 
 		background-image: none!important; 
 		}
 		
@@ -609,7 +609,7 @@ div#body {
 }
 
 @media screen and (max-width:320px){
-div#body { 
+body { 
 		background-image: none!important; 
 		}
 
