@@ -1,6 +1,4 @@
 # tomcosta.github.io
-Empreendedor desenvolvedor mobile
+Empreendedor desenvolvedor mobile front-end
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/TomCosta/tomcosta.github.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+Ionic Framework expert
