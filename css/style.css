@@ -178,11 +178,11 @@ select.btn.btn-default.button-one {
 
 h3{
     color: #3f96f7;
-	font-family:nyala;
+    font-family:nyala;
     font-size: 38px;
-	text-shadow: 0px 0px 2px #3f96f7;
+    text-shadow: 0px 0px 2px #000000;
     margin-bottom: 6px;
-	font-weight:500;
+    font-weight:500;
   }
 															/* Tab-0 Details */
 .profile-content h4{
