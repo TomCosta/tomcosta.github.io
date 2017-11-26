@@ -1,4 +1,6 @@
-# tomcosta.github.io
-Empreendedor desenvolvedor mobile front-end
+# Profile page of
+## Everton Costa (Tom Costa) 
+### Mobile developer entrepreneur
+Desenvolvedor mobile e empreendedor
 
 Ionic Framework expert
