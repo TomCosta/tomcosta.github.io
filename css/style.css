@@ -88,7 +88,7 @@ anuncio{
 	background: #ffe667;
 }
 p.footer {
-    color: #fff;
+    color: #3f96f7;
     text-align: center;
     font-size: 16px;
     margin-top: 60px;
@@ -97,10 +97,10 @@ p.footer {
 	padding:0 10px;
 }
 p.footer a{
-	color:#ffe667;
+	color:#3f96f7;
 }
 p.footer a:hover{
-	color: #ffe667;	
+	color: #0860c4;	
 }
 /*-- start tabs --*/
 .port-left{
